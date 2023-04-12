@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ATP Lista02", "ATP Lista02\ATP Lista02.csproj", "{F209C650-0C6F-43D9-A812-A1DD93F56557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F209C650-0C6F-43D9-A812-A1DD93F56557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F209C650-0C6F-43D9-A812-A1DD93F56557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F209C650-0C6F-43D9-A812-A1DD93F56557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F209C650-0C6F-43D9-A812-A1DD93F56557}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFC9DF9F-5F3E-4765-ADF1-075A4C5702DB}
+	EndGlobalSection
+EndGlobal
